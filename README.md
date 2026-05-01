@@ -6,6 +6,7 @@ Progress belajar Swift & SwiftUI 📱
 
 ## 📅 Daily Progress
 
+- [ ] [SwiftUI Quick Start](https://www.hackingwithswift.com/quick-start/swiftui)
 - [x] Day 0 – Tips and advice before you start
 - [ ] Day 1 – Variables, constants, strings, and numbers
 - [ ] Day 2 – Booleans, string interpolation, and checkpoint 1
