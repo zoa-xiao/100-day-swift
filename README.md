@@ -6,7 +6,7 @@ Progress belajar Swift & SwiftUI 📱
 
 ## 📅 Daily Progress
 
-- [ ] Day 0 – Tips and advice before you start
+- [x] Day 0 – Tips and advice before you start
 - [ ] Day 1 – Variables, constants, strings, and numbers
 - [ ] Day 2 – Booleans, string interpolation, and checkpoint 1
 - [ ] Day 3 – Arrays, dictionaries, sets, and enums
