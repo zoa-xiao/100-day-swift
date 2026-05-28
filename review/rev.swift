@@ -427,3 +427,8 @@ func getUser(id : Int) throws -> String {
 if let user  = try? getUser(id : 1) {
     print("User: \(user)")
 }
+
+
+// try : pake do catch untuk menangani error
+// try? : mengubah hasil dari fungsi yang bisa error menjadi optional, jika error maka nil
+// try! : mengasumsikan bahwa fungsi tidak akan error, jika error maka program akan crash
