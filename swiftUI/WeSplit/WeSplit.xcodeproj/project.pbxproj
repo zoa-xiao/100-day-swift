@@ -11,6 +11,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		0688556E2FCAFB30000569E0 /* day-19 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "day-19";
+			sourceTree = "<group>";
+		};
 		0688E96B2FC8271200281246 /* WeSplit */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = WeSplit;
@@ -32,6 +37,7 @@
 		0688E9602FC8271200281246 = {
 			isa = PBXGroup;
 			children = (
+				0688556E2FCAFB30000569E0 /* day-19 */,
 				0688E96B2FC8271200281246 /* WeSplit */,
 				0688E96A2FC8271200281246 /* Products */,
 			);
@@ -61,6 +67,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				0688556E2FCAFB30000569E0 /* day-19 */,
 				0688E96B2FC8271200281246 /* WeSplit */,
 			);
 			name = WeSplit;
